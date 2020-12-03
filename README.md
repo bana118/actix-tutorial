@@ -1,5 +1,5 @@
 # actix-tutorial
-
+[actix-web，teraを用いたwebアプリケーション開発](https://banatech.net)で使用したコード  
 actix-web，diesel.，teraを用いた例  
 
 # How to get started
