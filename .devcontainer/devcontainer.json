@@ -1,0 +1,9 @@
+{
+  "name": "actix-tutorial",
+  "dockerFile": "Dockerfile",
+  "forwardPorts": [8080],
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "extensions": ["rust-lang.rust"]
+}

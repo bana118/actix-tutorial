@@ -1,0 +1,15 @@
+[package]
+name = "card-playroom-server"
+version = "0.0.1"
+authors = ["bana118 <bana.titech@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+actix = "0.10"
+actix-web = "3"
+actix-cors = "0.5"
+actix-multipart = "0.3"
+actix-files = "0.4"
+tera = "1"
