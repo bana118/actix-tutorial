@@ -1,6 +1,7 @@
 # actix-tutorial
 [actix-web，teraを用いたwebアプリケーション開発](https://banatech.net)で使用したコード  
-actix-web，diesel.，teraを用いた例  
+actix-web，diesel，teraを用いたサンプル  
+[actix\-web，tera，dieselを用いたWebアプリケーション開発](https://banatech.net/blog/view/44)
 
 # How to get started
 VSCodeの[Remote Container 拡張](https://code.visualstudio.com/docs/remote/containers)の使用を推奨．    
